@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const CustomFooter = () => {
   return (
     <footer className="border-t py-12 px-4 lg:px-8 mt-16">
